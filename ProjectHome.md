@@ -1,0 +1,1 @@
+Integration Tests using Spock that Demonstrate RabbitMQ's features
